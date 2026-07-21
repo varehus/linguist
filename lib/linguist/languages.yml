@@ -1225,6 +1225,16 @@ Cirru:
   extensions:
   - ".cirru"
   language_id: 58
+Claire:
+  type: programming
+  color: "#009688"
+  extensions:
+  - ".cl"
+  tm_scope: none
+  ace_mode: text
+  codemirror_mode: text
+  codemirror_mime_type: text/plain
+  language_id: 734793890
 Clarion:
   type: programming
   color: "#db901e"

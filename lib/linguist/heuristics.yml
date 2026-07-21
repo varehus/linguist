@@ -187,6 +187,8 @@ disambiguations:
   rules:
   - language: Common Lisp
     pattern: '^\s*\((?i:defun|in-package|defpackage) '
+  - language: Claire
+    pattern: '\b(?:Defclass|Defmethod|Defobj)\b|\s+<:\s+|\?>'
   - language: Cool
     pattern: '^class'
   - language: OpenCL
